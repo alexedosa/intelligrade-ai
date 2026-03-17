@@ -1,0 +1,7 @@
+django>=4.2,<5.0
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+openai
+django-cors-headers
+python-dotenv

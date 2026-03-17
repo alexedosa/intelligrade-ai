@@ -1,0 +1,24 @@
+# Environments
+.venv/
+venv/
+node_modules/
+
+# Secrets & Config
+.env
+.vscode/
+db.sqlite3
+
+# Python/Django specific
+__pycache__/
+*.py[cod]
+db.sqlite3
+staticfiles/
+media/
+
+# React/Frontend specific
+build/
+dist/
+.eslintcache
+
+# System junk
+.DS_Store
